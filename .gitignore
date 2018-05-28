@@ -4,5 +4,5 @@
 dogImages/
 lfw/
 bottleneck_features/
-
-__pycache__
+submit/
+__pycache__/
